@@ -16,6 +16,8 @@
 }
 
 
+
+
 .div-container {
     background-image:
     url(images/ellipse_3.png),
@@ -36,6 +38,30 @@
   background-position-y: 22%, 88%, 15%, 15%, 16.6%, 12.8%, 90%, 19.8%, 90.1%, 15%, 91.9%, 76%, 15%, 21%;
   background-repeat: no-repeat;
 }
+
+.form-container {
+    background-image:
+      url(images/Rectangle-44.png),
+      url(images/Ellipse-33.png),
+      url(images/Ellipse-12.png),
+      url(images/Rectangle-7.png),
+      url(images/Ellipse-13.png);
+    background-position-x: 94%, 96%, 40%, 8%, 75%;
+    background-position-y: 1%, 5%, 3%, 25%, 10%;
+    background-repeat: no-repeat;
+}
+
+.form-2 {
+    background-image:
+      url(images/Ellipse-5.png),
+      url(images/Rectangle_6.png),
+      url(images/Ellipse-22.png);
+    background-position-x:  10.4%, 20.5%, 22%;
+    background-position-y:  14.9%, 98%, 97%;
+    background-repeat: no-repeat;
+}
+
+
 
 /* text css above hero image*/
 .hero_title {
